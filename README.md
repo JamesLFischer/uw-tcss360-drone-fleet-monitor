@@ -155,3 +155,5 @@ James Fischer
 # Version
 
 1.0
+## Also included
+- `group-assignment-minesweeper/`: TCSS 360 Group Assignment 1 (Minesweeper hint-grid generator, team submission with a JUnit-style test and large generated input/output).
